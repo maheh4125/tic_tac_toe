@@ -37,25 +37,6 @@ The code is structured as follows:
 5. Run the command `python tic_tac_toe.py`.
 
 
-## Example Gameplay
-
-1 2 3
-1 | |
-2 | |
-3 | |
-Enter your move (row, col, 1-indexed): 1,1
-1 2 3
-1 O | |
-2 | |
-3 | |
-1 2 3
-1 O | | X
-2 | |
-3 | |
-Enter your move (row, col, 1-indexed): 2,2
-. . . (game continues)
-
-
 ## Potential Enhancements
 
 * **GUI:** Add a graphical user interface for a more visually appealing game.
